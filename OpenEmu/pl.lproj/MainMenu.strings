@@ -63,7 +63,7 @@
 "993.title" = "Ocena";
 
 /* Class = "NSMenuItem"; title = "Get Info"; ObjectID = "994"; */
-"994.title" = "Get Info";
+"994.title" = "Poierz informację";
 
 /* Class = "NSMenuItem"; title = "Close Window"; ObjectID = "995"; */
 "995.title" = "Zamknij okno";
@@ -123,7 +123,7 @@
 "1016.title" = "Sprawdź aktualizacje…";
 
 /* Class = "NSMenuItem"; title = "About OpenEmu"; ObjectID = "1017"; */
-"1017.title" = "O OpenEmu";
+"1017.title" = "OpenEmu - informacje";
 
 /* Class = "NSMenuItem"; title = "Hide OpenEmu"; ObjectID = "1018"; */
 "1018.title" = "Ukryj OpenEmu";
@@ -171,7 +171,7 @@
 "1040.title" = "jako Siatka";
 
 /* Class = "NSMenuItem"; title = "Undock Game Window"; ObjectID = "1041"; */
-"1041.title" = "Undock Game Window";
+"1041.title" = "Odłącz okno gry";
 
 /* Class = "NSMenu"; title = "Controls"; ObjectID = "1042"; */
 "1042.title" = "Sterowanie";
@@ -264,7 +264,7 @@
 "1082.title" = "Szukaj…";
 
 /* Class = "NSMenuItem"; title = "Stop Emulation"; ObjectID = "1167"; */
-"1167.title" = "Zatrzymaj emulację";
+"1167.title" = "Zakończ emulację";
 
 /* Class = "NSTextFieldCell"; title = "Version"; ObjectID = "1182"; */
 "1182.title" = "Wersja";
@@ -285,7 +285,7 @@
 "1217.title" = "Log Grid Info";
 
 /* Class = "NSMenuItem"; title = "Show ROM Names"; ObjectID = "1293"; */
-"1293.title" = "Pokaż nazwy ROM";
+"1293.title" = "Pokaż nazwy plików ROM";
 
 /* Class = "NSMenuItem"; title = "Show Library"; ObjectID = "1306"; */
 "1306.title" = "Pokaż bibliotekę";
