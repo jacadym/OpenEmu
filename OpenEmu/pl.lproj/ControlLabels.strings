@@ -1,0 +1,140 @@
+/*
+ Copyright (c) 2015, OpenEmu Team
+
+ Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions are met:
+     * Redistributions of source code must retain the above copyright
+       notice, this list of conditions and the following disclaimer.
+     * Redistributions in binary form must reproduce the above copyright
+       notice, this list of conditions and the following disclaimer in the
+       documentation and/or other materials provided with the distribution.
+     * Neither the name of the OpenEmu Team nor the
+       names of its contributors may be used to endorse or promote products
+       derived from this software without specific prior written permission.
+
+ THIS SOFTWARE IS PROVIDED BY OpenEmu Team ''AS IS'' AND ANY
+ EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED
+ WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE
+ DISCLAIMED. IN NO EVENT SHALL OpenEmu Team BE LIABLE FOR ANY
+ DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES
+ (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES;
+  LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
+ ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+ (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+  SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ */
+
+/* Section Title */
+  "Gameplay Buttons" = "Przyciski Rozgrywki";
+  "Special Keys" = "Klawisze Specjalne";
+
+/* Group Labels */
+  "Analog" = "Analogowy";
+  "C-Pad" = "C-Pad";
+  "D-Pad" = "D-Pad";
+  "Keypad" = "Klawisz";
+  "Left Analog" = "Lewy Analogowy";
+  "Left D-Pad" = "Lewy D-Pad";
+  "Right Analog" = "Prawy Analogowy";
+  "Right D-Pad" = "Prawy D-Pad";
+  "Switches" = "Przełączniki";
+
+/* Button Labels */
+  "#" = "#";
+  "*" = "*";
+  "0" = "0";
+  "1" = "1";
+  "2" = "2";
+  "2/6 Mode" = "Tryb 2/6";
+  "3" = "3";
+  "4" = "4";
+  "5" = "5";
+  "6" = "6";
+  "7" = "7";
+  "8" = "8";
+  "9" = "9";
+  "A" = "A";
+  "Analog Mode" = "Tryb Analogowy";
+  "B" = "B";
+  "Button 1" = "Przycisk 1";
+  "Button 1/Start" = "Przycisk 1/Start";
+  "Button 2" = "Przycisk 2";
+  "Button 3" = "Przycisk 3";
+  "Button 4" = "Przycisk 4";
+  "Button 5" = "Przycisk 5";
+  "Button 6" = "Przycisk 6";
+  "C" = "C";
+  "Change Disk Side" = "Zmień Stronę Dysku";
+  "Console Pause" = "Pauza";
+  "Display Mode" = "Tryb ekranu";
+  "Down" = "Dół";
+  "Fast Forward" = "Do Przodu";
+  "Fire 1" = "Strzał 1";
+  "Fire 2" = "Strzał 2";
+  "Fire" = "Strzał";
+  "Fullscreen" = "Pełny ekran";
+  "Insert Coin" = "Wrzuć monetę";
+  "L Diff A" = "L Diff A";
+  "L Diff B" = "L Diff B";
+  "L Diff" = "L Diff";
+  "L" = "L";
+  "L1" = "L1";
+  "L2" = "L2";
+  "L3" = "L3";
+  "Left Action" = "Lewa Akcja";
+  "Left Trigger" = "Lewy Trigger";
+  "Left" = "Lewo";
+  "Lid" = "Lid";
+  "Load" = "Load";
+  "Mic" = "Mic";
+  "Mode" = "Tryb";
+  "Mute" = "Wyciszenie";
+  "Option 1" = "Opcja 1";
+  "Option 2" = "Opcja 2";
+  "Option" = "Opcja";
+  "P" = "P";
+  "Pause" = "Pauza";
+  "Player Start" = "Player Start";
+  "Quick Load" = "Szybkie Wczytanie";
+  "Quick Load Button" = "Przycisk Szybkiego Wczytywania";
+  "Quick Save" = "Szybki Zapis";
+  "Quick Save Button" = "Przycisk Szybkiego Zapisu";
+  "R Diff A" = "R Diff A";
+  "R Diff B" = "R Diff B";
+  "R Diff" = "R Diff";
+  "R" = "R";
+  "R1" = "R1";
+  "R2" = "R2";
+  "R3" = "R3";
+  "Reset" = "Reset";
+  "Rewind" = "Do Tyłu";
+  "Right Action" = "Prawa Akcja";
+  "Right Trigger" = "Prawy Trigger";
+  "Right" = "Prawo";
+  "Run" = "Uruchom";
+  "Save" = "Zapisz";
+  "Screenshot" = "Zrzut Ekranu";
+  "Select" = "Select";
+  "Service" = "Service";
+  "Sound" = "Dźwięk";
+  "Start" = "Start";
+  "TV Black & White" = "Czarno-Biały TV";
+  "TV Color" = "Kolorowy TV";
+  "Up" = "Góra";
+  "Volume Down" = "Ciszej";
+  "Volume Up" = "Głośniej";
+  "X" = "X";
+  "X1 Up" = "X1 Góra";
+  "X2 Right" = "X2 Prawo";
+  "X3 Down" = "X3 Dół";
+  "X4 Left" = "X4 Lewo";
+  "Y" = "Y";
+  "Y1 Up" = "Y1 Góra";
+  "Y2 Right" = "Y2 Prawo";
+  "Y3 Down" = "Y3 Dół";
+  "Y4 Left" = "Y4 Lewo";
+  "Z" = "Z";
+  "▢" = "▢";
+  "△" = "△";
+  "◯" = "◯";
+  "✕" = "✕";
