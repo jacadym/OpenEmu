@@ -42,11 +42,11 @@
 
 "Add Cheat" = "Add Cheat";
 
-"Add Cover Art From File…" = "Add Cover Art From File…";
+"Add Cover Art From File…" = "Dodaj ilustrację okładki z pliku…";
 
-"Add To Collection" = "Dodaj Do Kolekcji";
+"Add To Collection" = "Dodaj do kolekcji";
 
-"All Games" = "Wszystkie Gry";
+"All Games" = "Wszystkie gry";
 
 "All Homebrew" = "All Homebrew";
 
@@ -84,13 +84,13 @@
 
 "Cancel Cover Art Download" = "Cancel Cover Art Download";
 
-"Cancel Operation" = "Anuluj Operację";
+"Cancel Operation" = "Anuluj operację";
 
 "Cancel" = "Anuluj";
 
-"Change Core" = "Zmień Rdzeń";
+"Change Core" = "Zmień rdzeń";
 
-"Change Volume" = "Zmień Głośność";
+"Change Volume" = "Zmień głośność";
 
 "Cheat Description" = "Cheat Description";
 
@@ -124,9 +124,9 @@
 
 "Copying Artwork Files…" = "Copying Artwork Files…";
 
-"Copying Game Files…" = "Kopiowanie Plików Gry…";
+"Copying Game Files…" = "Kopiowanie plików gry…";
 
-"Copying ROM Files…" = "Kopiowanie Plików ROM…";
+"Copying ROM Files…" = "Kopiowanie plików ROM…";
 
 "Core Provided By…" = "Rdzeń…";
 
@@ -198,7 +198,7 @@
 
 "Done" = "Zrobione";
 
-"Download Cover Art" = "Download Cover Art";
+"Download Cover Art" = "Pobierz ilustrację okładki";
 
 "Download" = "Pobierz";
 
@@ -292,7 +292,7 @@
 
 "Name" = "Nazwa"; // Search field menu, only search names
 
-"New Collection from Selection" = "Nowa Kolekcja z Zaznaczenia";
+"New Collection from Selection" = "Nowa kolekcja z zaznaczenia";
 
 "New Collection" = "Nowa kolekcja";
 
@@ -344,9 +344,9 @@
 
 "Play Games (Caution)" = "Play Games (Caution)";
 
-"Play Save Games" = "Play Save Games";
+"Play Save Games" = "Uruchom zapisane gry";
 
-"Play Save State" = "Play Save State";
+"Play Save State" = "Uruchom zapisany stan";
 
 "Player %ld" = "Gracz %ld";
 
@@ -372,11 +372,11 @@
 
 "Rename \"%@\"" = "Zmień nazwę \"%@\"";
 
-"Rename Game" = "Zmień Nazwę Gry";
+"Rename Game" = "Zmień nazwę gry";
 
 "Rename Special Save State or something?" = "Rename Special Save State or something?";
 
-"Rename" = "Zmień Nazwę";
+"Rename" = "Zmień nazwę";
 
 "Required files are missing." = "Required files are missing.";
 
@@ -388,31 +388,31 @@
 
 "Restart now" = "Restartuj teraz";
 
-"Restart System" = "Zrestartuj System";
+"Restart System" = "Zrestartuj system";
 
 "Restart" = "Restart";
 
-"Resume Emulation" = "Resume Emulation";
+"Resume Emulation" = "Wznów emulację";
 
 "Resume" = "Wznów";
 
-"Save As:" = "Zapisz Jako:";
+"Save As:" = "Zapisz jako:";
 
-"Save Current Game…" = "Save Current Game…";
+"Save Current Game…" = "Zapisz aktualną grę…";
 
-"Save Game" = "Zapisz Grę";
+"Save Game" = "Zapisz grę";
 
-"Save States" = "Save States";
+"Save States" = "Zapisz stan";
 
 "Save to Slot %d" = "Save to Slot %d";
 
 "Save-Game-%ld %@" = "Save-Game-%ld %@";
 
-"Saved Games" = "Saved Games";
+"Saved Games" = "Zapisane gry";
 
 "Scanner Paused" = "Zatrzymany Skaner";
 
-"Scanning Directory" = "Skanowanie Katalogu";
+"Scanning Directory" = "Skanowanie katalogu";
 
 "Screenshots" = "Zrzuty Ekranu";
 
@@ -420,21 +420,21 @@
 
 "Secrets" = "Secrets";
 
-"Select All" = "Zaznacz Wszystko";
+"Select All" = "Zaznacz wszystko";
 
 "Select Audio Output Device" = "Select Audio Output Device";
 
 "Select Cheat" = "Select Cheat";
 
-"Select Core" = "Select Core";
+"Select Core" = "Wybierz rdzeń";
 
-"Select Filter" = "Wybierz Filtr";
+"Select Filter" = "Wybierz filtr";
 
 "Select Scale" = "Select Scale";
 
 "Share" = "Share";
 
-"Show in Finder" = "Pokaż w Katalogu";
+"Show in Finder" = "Pokaż plik w folderze";
 
 "Slot %d" = "Slot %d";
 
@@ -444,15 +444,15 @@
 
 "Some migrations failed to complete properly" = "Some migrations failed to complete properly";
 
-"Start Scanning" = "Rozpoczęcie Skanowania";
+"Start Scanning" = "Rozpoczęcie skanowania";
 
-"Stop Emulation" = "Zatrzymaj Emulację";
+"Stop Emulation" = "Zatrzymaj emulację";
 
 "Stop" = "Zatrzymaj";
 
-"Switch To Grid View" = "Przełącz Do Widoku Siatki";
+"Switch To Grid View" = "Przełącz do widoku Siatki";
 
-"Switch To List View" = "Przełącz Do Widoku Listy";
+"Switch To List View" = "Przełącz do widoku Listy";
 
 "System Files" = "Pliki Systemowe";
 
