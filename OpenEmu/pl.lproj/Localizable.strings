@@ -98,9 +98,9 @@
 
 "Choose a valid file." = "Choose a valid file.";
 
-"Choose Library…" = "Wybierz Bibiotekę…";
+"Choose Library…" = "Wybierz bibliotekę…";
 
-"Choose OpenEmu Library" = "Wybierz OpenEmu Bibiotekę";
+"Choose OpenEmu Library" = "Wybierz OpenEmu bibliotekę";
 
 "Choose Yes to remove all items from the queue. Items that finished importing will be preserved in your library." = "Choose Yes to remove all items from the queue. Items that finished importing will be preserved in your library.";
 
@@ -142,7 +142,7 @@
 
 "Create a personal game selection. To add to a collection, select a game from your console library and drag it to ’%@’ on the left." = "Create a personal game selection. To add to a collection, select a game from your console library and drag it to ’%@’ on the left.";
 
-"Create Library…" = "Utwórz Bibiotekę…";
+"Create Library…" = "Utwórz bibliotekę…";
 
 "Create or Load Save State" = "Create or Load Save State";
 

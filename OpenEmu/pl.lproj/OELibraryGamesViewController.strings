@@ -1,15 +1,15 @@
 
 /* Class = "NSMenuItem"; title = "Add To Library…"; ObjectID = "1U8-Yu-nH3"; */
-"1U8-Yu-nH3.title" = "Dodaj Do Biblioteki…";
+"1U8-Yu-nH3.title" = "Dodaj do biblioteki…";
 
 /* Class = "NSMenuItem"; title = "New Collection"; ObjectID = "Lkc-nZ-qig"; */
-"Lkc-nZ-qig.title" = "Nowa Kolekcja";
+"Lkc-nZ-qig.title" = "Nowa kolekcja";
 
 /* Class = "NSTextFieldCell"; title = "Game Scanner"; ObjectID = "R5g-ov-B26"; */
-"R5g-ov-B26.title" = "Game Scanner";
+"R5g-ov-B26.title" = "Skaner gier";
 
 /* Class = "NSTextFieldCell"; title = "Scanner Paused"; ObjectID = "gJT-pJ-BJg"; */
-"gJT-pJ-BJg.title" = "Scanner Paused";
+"gJT-pJ-BJg.title" = "Skaner zatrzymany";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "y45-NU-dbu"; */
 "y45-NU-dbu.title" = "Text Cell";

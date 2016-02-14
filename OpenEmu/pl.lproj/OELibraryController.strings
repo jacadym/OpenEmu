@@ -1,39 +1,39 @@
 
 /* Class = "NSToolbarItem"; label = "Grid Size"; ObjectID = "4KY-AU-4s0"; */
-"4KY-AU-4s0.label" = "Grid Size";
+"4KY-AU-4s0.label" = "Rozmiar Siatki";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Grid Size"; ObjectID = "4KY-AU-4s0"; */
-"4KY-AU-4s0.paletteLabel" = "Grid Size";
+"4KY-AU-4s0.paletteLabel" = "Rozmiar Siatki";
 
 /* Class = "NSSegmentedCell"; DQz-qS-W9j.ibShadowedLabels[0] = "Library"; ObjectID = "DQz-qS-W9j"; */
-"DQz-qS-W9j.ibShadowedLabels[0]" = "Library";
+"DQz-qS-W9j.ibShadowedLabels[0]" = "Biblioteka";
 
 /* Class = "NSSegmentedCell"; DQz-qS-W9j.ibShadowedLabels[1] = "Save States"; ObjectID = "DQz-qS-W9j"; */
-"DQz-qS-W9j.ibShadowedLabels[1]" = "Save States";
+"DQz-qS-W9j.ibShadowedLabels[1]" = "Zapisane Stany";
 
 /* Class = "NSSegmentedCell"; DQz-qS-W9j.ibShadowedLabels[2] = "Screenshots"; ObjectID = "DQz-qS-W9j"; */
-"DQz-qS-W9j.ibShadowedLabels[2]" = "Screenshots";
+"DQz-qS-W9j.ibShadowedLabels[2]" = "Zrzuty Ekranu";
 
 /* Class = "NSSegmentedCell"; DQz-qS-W9j.ibShadowedLabels[3] = "Homebrew"; ObjectID = "DQz-qS-W9j"; */
 "DQz-qS-W9j.ibShadowedLabels[3]" = "Homebrew";
 
 /* Class = "NSToolbarItem"; label = "View Mode"; ObjectID = "DWE-Na-du6"; */
-"DWE-Na-du6.label" = "View Mode";
+"DWE-Na-du6.label" = "Tryb Wyświetlania";
 
 /* Class = "NSToolbarItem"; paletteLabel = "View Mode"; ObjectID = "DWE-Na-du6"; */
-"DWE-Na-du6.paletteLabel" = "View Mode";
+"DWE-Na-du6.paletteLabel" = "Tryb Wyświetlania";
 
 /* Class = "NSToolbarItem"; label = "Search"; ObjectID = "Nu8-Bo-VSq"; */
-"Nu8-Bo-VSq.label" = "Search";
+"Nu8-Bo-VSq.label" = "Znajdź";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Search"; ObjectID = "Nu8-Bo-VSq"; */
-"Nu8-Bo-VSq.paletteLabel" = "Search";
+"Nu8-Bo-VSq.paletteLabel" = "Znajdź";
 
 /* Class = "NSSearchFieldCell"; placeholderString = "Search"; ObjectID = "gXt-MS-4X4"; */
-"gXt-MS-4X4.placeholderString" = "Search";
+"gXt-MS-4X4.placeholderString" = "Znajdź";
 
 /* Class = "NSToolbarItem"; label = "Category"; ObjectID = "ujX-P2-4hs"; */
-"ujX-P2-4hs.label" = "Category";
+"ujX-P2-4hs.label" = "Kategoria";
 
 /* Class = "NSToolbarItem"; paletteLabel = "Category"; ObjectID = "ujX-P2-4hs"; */
-"ujX-P2-4hs.paletteLabel" = "Category";
+"ujX-P2-4hs.paletteLabel" = "Kategoria";

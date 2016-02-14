@@ -1,6 +1,6 @@
 
 /* Class = "NSTableColumn"; headerCell.title = "Path"; ObjectID = "75"; */
-"75.headerCell.title" = "Path";
+"75.headerCell.title" = "Ścieżka";
 
 /* Class = "NSTextFieldCell"; title = "Text Cell"; ObjectID = "78"; */
 "78.title" = "Text Cell";
@@ -15,4 +15,4 @@
 "132.title" = "OtherViews";
 
 /* Class = "NSButtonCell"; title = "Apply"; ObjectID = "139"; */
-"139.title" = "Apply";
+"139.title" = "Zatwierdź";
