@@ -98,9 +98,9 @@
 
 "Choose a valid file." = "Choose a valid file.";
 
-"Choose Library…" = "Wybierz Bibiotekę…";
+"Choose Library…" = "Wybierz bibliotekę…";
 
-"Choose OpenEmu Library" = "Wybierz OpenEmu Bibiotekę";
+"Choose OpenEmu Library" = "Wybierz OpenEmu bibliotekę";
 
 "Choose Yes to remove all items from the queue. Items that finished importing will be preserved in your library." = "Choose Yes to remove all items from the queue. Items that finished importing will be preserved in your library.";
 
@@ -142,37 +142,37 @@
 
 "Create a personal game selection. To add to a collection, select a game from your console library and drag it to ’%@’ on the left." = "Create a personal game selection. To add to a collection, select a game from your console library and drag it to ’%@’ on the left.";
 
-"Create Library…" = "Utwórz Bibiotekę…";
+"Create Library…" = "Utwórz bibliotekę…";
 
 "Create or Load Save State" = "Create or Load Save State";
 
 "Create your personal collection of screenshots. To take a screenshot, you can use the keyboard shortcut ⌘ + T while playing a game." = "Utwórz swoją kolekcję zrzutów ekranu. Aby wykonać zrzut ekranu użyj skrótu klawiszowego ⌘ + T podczas gry.";
 
-"Default Core" = "Default Core";
+"Default Core" = "Domyślny rdzeń";
 
-"Delete Collection" = "Usuń Kolekcję";
+"Delete Collection" = "Usuń kolekcję";
 
-"Delete Game" = "Usuń Grę";
+"Delete Game" = "Usuń grę";
 
-"Delete Games" = "Usuń Gry";
+"Delete Games" = "Usuń gry";
 
-"Delete Save State" = "Delete Save State";
+"Delete Save State" = "Usuń zapisany stan";
 
-"Delete Save States" = "Delete Save States";
+"Delete Save States" = "Usuń zapisane stany";
 
 "Delete Save" = "Delete Save";
 
 "Delete Saves" = "Delete Saves";
 
-"Delete Screenshot" = "Delete Screenshot";
+"Delete Screenshot" = "Usuń zrzut ekranu";
 
-"Delete Screenshots" = "Delete Screenshots";
+"Delete Screenshots" = "Usuń zrzuty ekranu";
 
 "Delete" = "Usuń";
 
 "Description" = "Opis"; // Search field menu, only search description
 
-"Deselect All" = "Odznacz Wszystko";
+"Deselect All" = "Odznacz wszystko";
 
 "Device Disconnected" = "Urządzenie Odłączone";
 
@@ -186,7 +186,7 @@
 
 "Do not ask me again" = "Nie pytaj ponownie";
 
-"Do Not Save" = "Nie Zapisuj";
+"Do Not Save" = "Nie zapisuj";
 
 "Do not show me again" = "Nie pokazuj ponownie";
 
@@ -204,19 +204,19 @@
 
 "Downloading %@…" = "Pobieranie %@…";
 
-"Downloading and Installing Core…" = "Pobieranie i Instalowanie Rdzenia…";
+"Downloading and Installing Core…" = "Pobieranie i instalowanie rdzenia…";
 
-"Downloading Game DB" = "Pobieranie Bazy Gier";
+"Downloading Game DB" = "Pobieranie bazy gier";
 
-"Drag & Drop Games Here" = "Pociągnij i Upuść Gry Tutaj";
+"Drag & Drop Games Here" = "Pociągnij i Upuść tutaj gry";
 
-"Drag & Drop Save States Here" = "Drag & Drop Save States Here";
+"Drag & Drop Save States Here" = "Pociągnij i Upuść tutaj stany gier";
 
-"Duplicate Collection" = "Duplikuj Kolekcję";
+"Duplicate Collection" = "Duplikuj kolekcję";
 
 "Edit Game Controls" = "Edit Game Controls";
 
-"Enable now" = "Włącz Teraz";
+"Enable now" = "Włącz teraz";
 
 "Enable Retrode support" = "Enable Retrode support";
 
@@ -226,7 +226,7 @@
 
 "Featured Games" = "Featured Games";
 
-"Fetching Games…" = "Pobieranie Gier…";
+"Fetching Games…" = "Pobieranie gier…";
 
 "Filter by:" = "Filtruj:"; // Search field menu, first item, instructional
 
@@ -234,9 +234,9 @@
 
 "Game Name" = "Nazwa gry"; // Search field menu, only search game name
 
-"Game requires download" = "Game requires download";
+"Game requires download" = "Gra wymaga pobrania";
 
-"Game Scanner" = "Skanej Gier";
+"Game Scanner" = "Skaner gier";
 
 "Gameplay" = "Rozgrywka";
 
@@ -286,29 +286,29 @@
 
 "Move selected games to Trash, or keep them in the Library folder?" = "Move selected games to Trash, or keep them in the Library folder?";
 
-"Move to Trash" = "Przenieś do Kosza";
+"Move to Trash" = "Przenieś do kosza";
 
-"Mute Audio" = "Wycisz Dźwięk";
+"Mute Audio" = "Wycisz dźwięk";
 
 "Name" = "Nazwa"; // Search field menu, only search names
 
 "New Collection from Selection" = "Nowa Kolekcja z Zaznaczenia";
 
-"New Collection" = "Nowa Kolekcja";
+"New Collection" = "Nowa kolekcja";
 
-"New Folder" = "Nowy Folder";
+"New Folder" = "Nowy folder";
 
-"New Smart Collection" = "Nowa Inteligentna Kolekcja";
+"New Smart Collection" = "Nowa inteligentna kolekcja";
 
 "No available controllers" = "Brak dostępnych kontrolerów";
 
 "No game played yet!" = "No game played yet!";
 
-"No Internet Connection" = "Brak Połączenia z Internetem";
+"No Internet Connection" = "Brak połączenia z Internetem";
 
-"No Save States available" = "No Save States available";
+"No Save States available" = "Brak zapisanych stanów";
 
-"No Screenshots Found" = "Nie Znaleziono Zrzutów Ekranu";
+"No Screenshots Found" = "Brak zrzutów ekranu";
 
 "No" = "Nie";
 
@@ -320,9 +320,9 @@
 
 "Only files in the OpenEmu Library folder will be moved to the Trash." = "Only files in the OpenEmu Library folder will be moved to the Trash.";
 
-"Open Collection" = "Otwórz Kolekcję";
+"Open Collection" = "Otwórz kolekcję";
 
-"Open Library" = "Otwórz Bibliotekę";
+"Open Library" = "Otwórz bibliotekę";
 
 "OpenEmu could not find a Core to launch the game" = "OpenEmu could not find a Core to launch the game";
 
@@ -336,11 +336,11 @@
 
 "Options" = "Opcje";
 
-"Pause Emulation" = "Zatrzymaj Emulację";
+"Pause Emulation" = "Zatrzymaj emulację";
 
-"Pause Gameplay" = "Zatrzymaj Rozgrywkę";
+"Pause Gameplay" = "Zatrzymaj rozgrywkę";
 
-"Play Game" = "Uruchom Grę";
+"Play Game" = "Uruchom grę";
 
 "Play Games (Caution)" = "Play Games (Caution)";
 
@@ -352,13 +352,13 @@
 
 "Please close all games and wait for the importer to finish." = "Please close all games and wait for the importer to finish.";
 
-"Quick Load" = "Quick Load";
+"Quick Load" = "Szybkie wczytanie";
 
 "Quick Save State" = "Quick Save State";
 
 "Quick Save, Slot %@" = "Quick Save, Slot %@";
 
-"Quick Save" = "Quick Save";
+"Quick Save" = "Szybki zapis";
 
 "Quit" = "Wyjdź";
 
